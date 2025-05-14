@@ -1,22 +1,21 @@
 <?php
-// Lista de alunos com nome, RM, email e três notas
 return [
     [
-        "nome" => "Ana Silva",
-        "rm" => "12345",
-        "email" => "ana.silva@email.com",
-        "notas" => [7.5, 8.0, 6.5]
+        'nome' => 'Lucas Andrade',
+        'rm' => '1001',
+        'email' => 'lucas@email.com',
+        'notas' => [8.0, 7.5, 9.0]
     ],
     [
-        "nome" => "Carlos Souza",
-        "rm" => "23456",
-        "email" => "carlos.souza@email.com",
-        "notas" => [5.0, 4.5, 6.0]
+        'nome' => 'Fernanda Lima',
+        'rm' => '1002',
+        'email' => 'fernanda@email.com',
+        'notas' => [5.5, 6.0, 6.5]
     ],
     [
-        "nome" => "Juliana Costa",
-        "rm" => "34567",
-        "email" => "juliana.costa@email.com",
-        "notas" => [9.0, 8.5, 9.5]
+        'nome' => 'João Pedro',
+        'rm' => '1003',
+        'email' => 'joao@email.com',
+        'notas' => [4.0, 5.0, 4.5]
     ]
 ];
